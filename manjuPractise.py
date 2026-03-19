@@ -9,8 +9,3 @@ def yearPredictor(year):
 
 yearPredictor(2027)
 
-
-def birthDayGreeting(name):
-    print(f"Happy Bithday to you {name} you live long")
-
-birthDayGreeting("Ranju")
